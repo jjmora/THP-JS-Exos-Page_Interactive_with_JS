@@ -1,2 +1,3 @@
-Faire une page interactive avec JS
--- The Hacking Project --
+Interactive WebPage with JavaScript
+
+Web created as part of The Hacking Project learning program
